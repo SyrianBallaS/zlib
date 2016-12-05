@@ -8,3 +8,4 @@ minigzip
 minigzip64
 zlib.pc
 
+*.tlog
